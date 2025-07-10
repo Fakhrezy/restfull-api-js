@@ -128,8 +128,8 @@ Headers:
 
 ```json
 {
-	"name": "Bob Wilson",
-	"email": "bob@example.com",
+	"name": "nama",
+	"email": "email@mail.com",
 	"age": 32
 }
 ```
