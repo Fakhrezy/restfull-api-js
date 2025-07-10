@@ -1,0 +1,21 @@
+{
+	"dependencies": {
+		"body-parser": "^2.2.0",
+		"express": "^5.1.0",
+		"mongoose": "^8.16.2",
+		"mysql2": "^3.14.1",
+		"sequelize": "^6.37.7"
+	},
+	"name": "restfullapi",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node rest-api/server.js",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"test-db": "node rest-api/test-connections.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
